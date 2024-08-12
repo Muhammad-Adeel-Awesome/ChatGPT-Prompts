@@ -1,6 +1,13 @@
 # ChatGPT-Prompts
 
-## Resume Prompt:
+## Table of Contents
+
+1. [Resume Prompt](#resume-prompt)
+2. [Resources](#resources)
+
+<hr>
+
+## Resume Prompt <a name="resume-prompt"></a>:
 
 ```
 You are tasked with optimizing a resume to make it more ATS-friendly and professionally appealing. Follow these guidelines:
@@ -32,5 +39,5 @@ Do this step by step.
 ```
 <hr>
 
-## Resources:
+## Resources <a name="resources"></a>:
 - [Awesome-Resumes](https://github.com/ManiMozaffar/awesome-resumes)
