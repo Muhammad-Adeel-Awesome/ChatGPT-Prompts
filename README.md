@@ -40,4 +40,4 @@ Do this step by step.
 <hr>
 
 ## Resources <a name="resources"></a>:
-- [Awesome-Resumes](https://github.com/ManiMozaffar/awesome-resumes){:target="_blank"}
+- [Awesome-Resumes](https://github.com/ManiMozaffar/awesome-resumes)
